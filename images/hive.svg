@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_6" data-name="Layer 6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 361.26 345.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Orange_Yellow);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #f89938;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        fill: url(#Orange_Yellow-2);
+      }
+
+      .cls-4 {
+        fill: url(#Orange_Yellow-6);
+      }
+
+      .cls-5 {
+        fill: url(#Orange_Yellow-5);
+      }
+
+      .cls-6 {
+        fill: url(#Orange_Yellow-3);
+      }
+
+      .cls-7 {
+        fill: url(#Orange_Yellow-4);
+      }
+    </style>
+    <linearGradient id="Orange_Yellow" data-name="Orange, Yellow" x1="156.32" y1="34.32" x2="85.43" y2="105.21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff33b"/>
+      <stop offset=".04" stop-color="#fee62d"/>
+      <stop offset=".12" stop-color="#fdd51b"/>
+      <stop offset=".2" stop-color="#fdca0f"/>
+      <stop offset=".28" stop-color="#fdc70c"/>
+      <stop offset=".67" stop-color="#f3903f"/>
+      <stop offset=".89" stop-color="#ed683c"/>
+      <stop offset="1" stop-color="#e93e3a"/>
+    </linearGradient>
+    <linearGradient id="Orange_Yellow-2" data-name="Orange, Yellow" x1="275.04" y1="34.32" x2="204.15" y2="105.21" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow-3" data-name="Orange, Yellow" x1="156.32" y1="239.09" x2="85.43" y2="309.98" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow-4" data-name="Orange, Yellow" x1="275.04" y1="239.09" x2="204.15" y2="309.98" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow-5" data-name="Orange, Yellow" x1="97.01" y1="136.9" x2="26.12" y2="207.8" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow-6" data-name="Orange, Yellow" x1="334.34" y1="136.9" x2="263.44" y2="207.8" xlink:href="#Orange_Yellow"/>
+  </defs>
+  <polygon class="cls-2" points="174.57 38.76 120.88 7.76 67.18 38.76 67.18 100.76 120.88 131.76 174.57 100.76 174.57 38.76"/>
+  <polygon class="cls-1" points="165.82 43.81 120.88 17.87 75.93 43.81 75.93 95.71 120.88 121.66 165.82 95.71 165.82 43.81"/>
+  <polygon class="cls-2" points="293.29 38.76 239.59 7.76 185.9 38.76 185.9 100.76 239.59 131.76 293.29 100.76 293.29 38.76"/>
+  <polygon class="cls-3" points="284.54 43.81 239.59 17.87 194.65 43.81 194.65 95.71 239.59 121.66 284.54 95.71 284.54 43.81"/>
+  <polygon class="cls-2" points="174.57 243.53 120.88 212.54 67.18 243.53 67.18 305.53 120.88 336.53 174.57 305.53 174.57 243.53"/>
+  <polygon class="cls-6" points="165.82 248.59 120.88 222.64 75.93 248.59 75.93 300.48 120.88 326.43 165.82 300.48 165.82 248.59"/>
+  <polygon class="cls-2" points="293.29 243.53 239.59 212.54 185.9 243.53 185.9 305.53 239.59 336.53 293.29 305.53 293.29 243.53"/>
+  <polygon class="cls-7" points="284.54 248.59 239.59 222.64 194.65 248.59 194.65 300.48 239.59 326.43 284.54 300.48 284.54 248.59"/>
+  <polygon class="cls-2" points="115.26 141.35 61.57 110.35 7.87 141.35 7.87 203.35 61.57 234.35 115.26 203.35 115.26 141.35"/>
+  <polygon class="cls-5" points="106.51 146.4 61.57 120.45 16.62 146.4 16.62 198.3 61.57 224.25 106.51 198.3 106.51 146.4"/>
+  <polygon class="cls-2" points="352.58 141.35 298.89 110.35 245.2 141.35 245.2 203.35 298.89 234.35 352.58 203.35 352.58 141.35"/>
+  <polygon class="cls-4" points="343.83 146.4 298.89 120.45 253.95 146.4 253.95 198.3 298.89 224.25 343.83 198.3 343.83 146.4"/>
+</svg>
