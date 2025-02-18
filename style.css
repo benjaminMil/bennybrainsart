@@ -306,11 +306,6 @@ textarea:focus {
   background-color: var(--accentTwoColor);
 }
 
-.icon-link img {
-  height: 38px;
-  width: 38px;
-}
-
 .gallery-grid {
   display: grid;
   justify-content: center;
@@ -373,7 +368,6 @@ textarea:focus {
   width: 100%;
   align-self: stretch;
   object-fit: cover;
-  border-radius: 15px;
 }
 
 .img10,
@@ -388,7 +382,6 @@ textarea:focus {
   width: 100%;
   align-self: start;
   object-fit: cover;
-  border-radius: 15px;
 }
 
 .gallery-grid.art-layout {
@@ -422,8 +415,6 @@ textarea:focus {
 }
 .gallery-grid.art-layout .img16 {
   grid-area: img16;
-  align-self: stretch;
-  overflow: visible;
 }
 .gallery-grid.art-layout .img17 {
   grid-area: img17;
