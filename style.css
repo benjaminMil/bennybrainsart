@@ -332,9 +332,8 @@ textarea:focus {
 }
 .gallery-grid.logo-layout .img3 {
   grid-area: img3;
-  width: 75%;
-  height: 75%;
   object-fit: contain;
+  align-self: center;
 }
 .gallery-grid.logo-layout .img4 {
   grid-area: img4;
@@ -349,7 +348,6 @@ textarea:focus {
 .gallery-grid.logo-layout .img7 {
   grid-area: img7;
   width: 75%;
-  height: 75%;
   object-fit: contain;
   justify-self: center;
 }
