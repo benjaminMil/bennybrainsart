@@ -60,16 +60,20 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
 
-  container.addEventListener("transitionend", () => {
-    if (index === totalImages - 1) {
-      container.style.transition = "none";
-      index = 1;
+container.addEventListener("transitionend", () => {
+  if (index >= totalImages - 1) {
+    requestAnimationFrame(() => {
+      container.style.transition = "none"; // Temporarily remove transition
+      index = 1; // Reset index
       container.style.transform = `translateX(-${index * 100}%)`;
+
+      
       requestAnimationFrame(() => {
         container.style.transition = "transform 1s ease-in-out";
       });
-    }
-  });
+    });
+  }
+});
 
  
   let lastTime = 0;
