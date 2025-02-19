@@ -19,7 +19,7 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: var(--primaryLightColor);
+  background-color: var(--primaryDarkColor);
 }
 
 h1 {
@@ -94,7 +94,7 @@ header {
   height: 98%;
   object-fit: cover;
   flex: 1 0 100%;
-   border: var(--primaryLightColor) solid 2px;
+   border: var(--primaryLightColor) solid 1px;
 }
 
 
@@ -110,12 +110,12 @@ header {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.5);
+  background: var(--accentOneColor);
   cursor: pointer;
   transition: 0.3s;
 }
 .dot.active {
-  background: var(--primaryLightColor);
+  background: var(--accentTwoColor);
 }
 
 .nav-container {
