@@ -96,6 +96,10 @@ header {
   flex: 1 0 100%;
 }
 
+.firing-img {
+  border: var(--primaryLightColor) solid 2px;
+}
+
 /* Navigation Dots */
 .dots-container {
   position: absolute;
@@ -441,6 +445,10 @@ footer {
 }
 
 @media (min-width: 768px) {
+
+  .firing-img {
+  border: none;
+}
   .carousel {
     height: 65vh;
     max-width: 1280;
