@@ -110,7 +110,7 @@ header {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: var(--accentOneColor);
+  background: rgba(40, 38, 38, 0.35);
   cursor: pointer;
   transition: 0.3s;
 }
