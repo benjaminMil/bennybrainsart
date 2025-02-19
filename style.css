@@ -94,11 +94,10 @@ header {
   height: 98%;
   object-fit: cover;
   flex: 1 0 100%;
+   border: var(--primaryLightColor) solid 2px;
 }
 
-.firing-img {
-  border: var(--primaryLightColor) solid 2px;
-}
+
 
 /* Navigation Dots */
 .dots-container {
@@ -446,9 +445,7 @@ footer {
 
 @media (min-width: 768px) {
 
-  .firing-img {
-  border: none;
-}
+
   .carousel {
     height: 65vh;
     max-width: 1280;
@@ -461,5 +458,6 @@ footer {
     height: 100;
     object-fit: contain;
     flex: 1 0 100%;
+    border: none;
   }
 }
