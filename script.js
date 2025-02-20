@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const images = document.querySelectorAll(".carousel-image");
   const dotsContainer = document.querySelector(".dots-container");
   const gridContainers = document.querySelectorAll(".gallery-grid");
-  const hamburger = document.querySelector(".nav-hambuger");
+  const hamburger = document.querySelector(".nav-hamburger");
   const menu = document.querySelector(".nav-menu");
 
  
