@@ -410,8 +410,8 @@ textarea:focus {
 }
 .gallery-grid.art-layout .img14 {
   grid-area: img14;
-  align-self: stretch;
-  overflow: visible;
+
+
 }
 .gallery-grid.art-layout .img15 {
   grid-area: img15;
