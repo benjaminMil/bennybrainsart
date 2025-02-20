@@ -382,6 +382,7 @@ textarea:focus {
 .img16,
 .img17,
 .img18 {
+  height: 100%;
   width: 100%;
   align-self: start;
   object-fit: cover;
@@ -410,7 +411,7 @@ textarea:focus {
 }
 .gallery-grid.art-layout .img14 {
   grid-area: img14;
-
+object-fit: fill;
 
 }
 .gallery-grid.art-layout .img15 {
