@@ -111,7 +111,7 @@ container.addEventListener("transitionend", () => {
           observer.unobserve(entry.target);
         }
       });
-    }, { rootMargin: "0px", threshold: 0.125 });
+    }, { rootMargin: "0px", threshold: 0.115 });
 
     galleryImages.forEach((image) => observer.observe(image));
   });
