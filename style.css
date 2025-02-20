@@ -411,8 +411,6 @@ textarea:focus {
 }
 .gallery-grid.art-layout .img14 {
   grid-area: img14;
-object-fit: fill;
-
 }
 .gallery-grid.art-layout .img15 {
   grid-area: img15;
