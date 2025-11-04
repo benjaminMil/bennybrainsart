@@ -326,6 +326,7 @@ textarea:focus {
 
 .gallery-grid.logo-layout .img1 {
   grid-area: img1;
+  border-radius: 10px;
 }
 .gallery-grid.logo-layout .img2 {
   grid-area: img2;
