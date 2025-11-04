@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const hamburger = document.querySelector(".nav-hamburger");
   const menu = document.querySelector(".nav-menu");
 
+  document.getElementById("year").textContent = new Date().getFullYear();
+
  
   if (hamburger && menu) {
     hamburger.addEventListener("click", () => {
